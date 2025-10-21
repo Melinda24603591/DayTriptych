@@ -1,5 +1,5 @@
 # DayTriptych
-Musical Composition (2025 Spring)
+Musical Composition: EarSketch (2025 Spring)
 
-Here is my A2 Project It's in EarSketch
+Here is my A2 Project
 https://earsketch.gatech.edu/earsketch2/?sharing=AEB4RJub7_AoFDowgvNAGw
