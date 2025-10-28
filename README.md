@@ -2,7 +2,7 @@
 Musical Composition: EarSketch (2025 Spring)
 
 Here is my A2 Project
-https://earsketch.gatech.edu/earsketch2/?sharing=AEB4RJub7_AoFDowgvNAGw
+
 
 After clicking on the link, you can see the EarSketch webpage. The code I wrote is in the CODE EDITOR section.
 <img width="1439" height="809" alt="40324c8a790866706ce959a7424b58b" src="https://github.com/user-attachments/assets/a5aa5adf-9e8c-4c76-84d1-7f7819a5ce35" />
