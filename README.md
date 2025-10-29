@@ -10,7 +10,7 @@ As a result, the EarSketch link below points to an older version of my code.
 
 The Python file (DayTriptych.py) in this repository contains the final and complete version of my project code.
 
-The audio file (DayTriptych_audio .wav) is the final rendered output generated from that Python script.
+The audio file (DayTriptych.wav) is the final rendered output generated from that Python script.
 
 -----------------------------------------------------------------------------------------------------------------------
 
