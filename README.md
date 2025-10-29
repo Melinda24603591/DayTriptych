@@ -1,8 +1,18 @@
-Here is my A2 Project. A musical composition project called DayTriptych.
+This repository contains the files for my EarSketch music composition project, DayTriptych.
 
+Please note the following important details about file versions and usage:
+Due to a system issue, I’m unable to save my final code to the EarSketch cloud.
+As a result, the EarSketch link below points to an older version of my code.
+
+The Python file (DayTriptych.py) in this repository contains the final and complete version of my project code.
+The audio file (DayTriptych_audio .wav) is the final rendered output generated from that Python script.
+
+[Old Version Link Here]
 https://earsketch.gatech.edu/earsketch2/?sharing=AEB4RJub7_AoFDowgvNAGw
 
-After clicking on the link, you can see the EarSketch webpage. 
+How to run:
+
+Click on the link. then you can see the EarSketch webpage. 
 
 <img width="1434" height="806" alt="165b27fe627c974c3e04cd5200b1738" src="https://github.com/user-attachments/assets/a458fbec-4a4b-4825-a293-65f99773bad2" />
 
