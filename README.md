@@ -10,9 +10,11 @@ The Python file (DayTriptych.py) in this repository contains the final and compl
 
 The audio file (DayTriptych_audio .wav) is the final rendered output generated from that Python script.
 
+
 [Old Version Link Here]
 
 https://earsketch.gatech.edu/earsketch2/?sharing=AEB4RJub7_AoFDowgvNAGw
+
 
 How to run:
 
