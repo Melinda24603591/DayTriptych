@@ -4,11 +4,11 @@
 # Description: Original work expressing emotional rhythm of a day
 
 # Project Overview
-# Duration: 2:15 (135 seconds) at 92 BPM = 52 bars total
+# Duration: 2:16 (136 seconds) at 92 BPM = 52 bars total
 # Audio Engine: EarSketch Python API
 # Sample Validation: Pre-validated audio samples only
 # Genre: R&B/Funk
-# Duration: ~2:15 at 92 BPM (52 bars)
+# Duration: ~2:16 at 92 BPM (52 bars)
 
 # Sections:
 # S1 Sleepy Morning  :  1–9   (8 bars)
