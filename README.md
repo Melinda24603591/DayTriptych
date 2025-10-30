@@ -1,4 +1,10 @@
-This repository contains the files for my EarSketch music composition project, DayTriptych.
+DayTriptych is a short R&B/Funk-inspired composition created in EarSketch using Python.
+
+The project explores how code can generate and shape musical structure, rhythm, and emotion.
+
+The composition is divided into several sections that represent different times of day, using custom functions to build rhythmic patterns, layered instrumentation, and automated transitions.
+
+This repository contains the files for my EarSketch music composition project.
 
 -----------------------------------------------------------------------------------------------------------------------
 
